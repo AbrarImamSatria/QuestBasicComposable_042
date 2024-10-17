@@ -72,6 +72,9 @@ fun BasicCompose(abrar:Modifier = Modifier){
          contentDescription = null,
          modifier = Modifier.size(250.dp)
      )
+     Text(
+         text = "Nama"
+     )
  }
 }
 
