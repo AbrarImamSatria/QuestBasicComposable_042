@@ -37,6 +37,7 @@ class MainActivity : ComponentActivity() {
 fun BasicCompose(abrar:Modifier = Modifier){
  Column (
      verticalArrangement = Arrangement.Center,
+     modifier = Modifier.fillMaxSize(),
  ){
  }
 }
