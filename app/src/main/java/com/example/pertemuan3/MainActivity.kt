@@ -32,6 +32,9 @@ class MainActivity : ComponentActivity() {
 
 @Preview(showBackground = true)
 @Composable
+fun BasicCompose(abrar:Modifier = Modifier){
+
+}
 
 
 @Composable
