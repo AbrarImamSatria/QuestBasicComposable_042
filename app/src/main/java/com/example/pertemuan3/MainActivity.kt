@@ -75,6 +75,13 @@ fun BasicCompose(abrar:Modifier = Modifier){
      Text(
          text = "Nama"
      )
+     Text(
+         text = "Abrar Imam Satria",
+         style = TextStyle(
+             color = Color.Blue,
+             fontFamily = FontFamily.Monospace
+         )
+     )
  }
 }
 
