@@ -48,6 +48,9 @@ fun BasicCompose(abrar:Modifier = Modifier){
  ){
      Text(text = "Pemrograman", modifier = abrar,
          fontSize = 50.sp,
+         color =   Color.Blue,
+         fontWeight = FontWeight.Bold,
+         fontFamily = FontFamily.Monospace
      )
  }
 }
