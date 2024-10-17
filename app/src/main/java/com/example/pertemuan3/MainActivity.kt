@@ -55,6 +55,12 @@ fun BasicCompose(abrar:Modifier = Modifier){
      )
      Text(
          text = "Aplikasi Mobile",
+         style = TextStyle(
+             fontSize = 25.sp,
+             fontStyle = FontStyle.Italic,
+             color = Color.Blue,
+             fontFamily = FontFamily.Monospace
+         )
      )
  }
 }
