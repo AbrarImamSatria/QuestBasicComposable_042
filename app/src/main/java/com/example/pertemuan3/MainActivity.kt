@@ -82,6 +82,12 @@ fun BasicCompose(abrar:Modifier = Modifier){
              fontFamily = FontFamily.Monospace
          )
      )
+     Text(
+         text = "20220140042",
+         style = TextStyle(
+             fontSize = 40.sp,
+         )
+     )
  }
 }
 
